@@ -2,7 +2,9 @@
 
 What I learned:
 
-- TODO: add what I learned and what I can further learn
+- Pygame which is basically a Python GUI
+- 
+- Alpha-beta pruning can be used to decrease the number of nodes that are evaulated by the minimax algorithm in the search tree
 
 Notes:
 
