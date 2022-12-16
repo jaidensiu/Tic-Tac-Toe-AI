@@ -1,4 +1,4 @@
-# Unbeatable-Tic-Tac-Toe-AI
+# Tic-Tac-Toe-AI
 
 What I learned:
 
