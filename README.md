@@ -1,9 +1,9 @@
 # Tic-Tac-Toe-AI
 
-What I learned:
+What I learned and what I can further learn:
 
-- Pygame which is basically a Python GUI
-- 
+- Pygame which is basically a Python GUI for creating video games
+- How to implement a simple AI using the Minimax algorithm
 - Alpha-beta pruning can be used to decrease the number of nodes that are evaulated by the minimax algorithm in the search tree
 
 Notes:
