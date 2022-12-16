@@ -1,5 +1,9 @@
 # Unbeatable-Tic-Tac-Toe-AI
 
+What I learned:
+
+- TODO: add what I learned and what I can further learn
+
 Notes:
 
 - Run ```python runner.py``` to play with the intelligent system
