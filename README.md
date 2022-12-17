@@ -9,6 +9,7 @@ What I learned and what I can further learn:
 Notes:
 
 - Run ```python runner.py``` to play with the intelligent system
+- For Python 3.11, type ```pip install pygame --pre``` to install Pygame
 
 References:
 
