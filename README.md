@@ -3,12 +3,13 @@
 What I learned and what I can further learn:
 - Pygame which is basically a Python GUI for creating video games
 - How to implement a simple AI using the Minimax algorithm
-- Alpha-beta pruning can be used to decrease the number of nodes that are evaulated by the minimax algorithm in the search tree
+- Alpha-beta pruning can be used to decrease the number of nodes that are evaluated by the minimax algorithm in the search tree
 
 Notes:
 - For Python 3.11, type ```pip install pygame --pre``` to install Pygame
 - Run ```python runner.py``` to play with the intelligent system
-    - In VS Code, can also run drop running the Python file (not code)
+    - In VS Code,run (on the dropdown tab) the Python file (not code)
+    - In PyCharm, run ```& C:/Users/jaide/AppData/Local/Programs/Python/Python311/python.exe c:/dev/Projects/tictactoe/runner.py```
 
 Images:
 
